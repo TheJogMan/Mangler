@@ -1,0 +1,9 @@
+name: PreMangler
+main: preMangler.PreMangler
+author: TheJogMan
+version: 1.0
+api-version: 1.17
+commands:
+ Hat:
+  description: Puts a hat on your head.
+  usage: /Hat
